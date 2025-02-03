@@ -1,1 +1,5 @@
-build/*
+# Игнорируем временные файлы Move
+.move/
+build/
+target/
+Move.lock
